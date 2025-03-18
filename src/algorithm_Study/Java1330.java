@@ -4,7 +4,6 @@ package algorithm_Study;
 import java.util.Scanner;
 
 public class Java1330 {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
@@ -21,5 +20,4 @@ public class Java1330 {
 			System.out.println("==");
 		}
 	}
-
 }
