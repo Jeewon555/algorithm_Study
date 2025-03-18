@@ -1,4 +1,4 @@
-//반복문 Level5 - Bronze5(2739번)
+//반복문 Level1 - Bronze5(2739번)
 package algorithm_Study;
 
 import java.util.Scanner;
@@ -15,5 +15,4 @@ public class Java2739 {
             System.out.println(N + " * " + i + " = " + N*i);
         }
 	}
-
 }
