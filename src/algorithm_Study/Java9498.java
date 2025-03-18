@@ -4,7 +4,6 @@ package algorithm_Study;
 import java.util.Scanner;
 
 public class Java9498 {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in); //System.in 으로 받기
@@ -23,5 +22,4 @@ public class Java9498 {
 			System.out.println("F");
 		}
 	}
-
 }
