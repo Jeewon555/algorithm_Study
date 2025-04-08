@@ -26,5 +26,4 @@ public class Java25304 {
         
         sc.close();
 	}
-
 }
