@@ -7,7 +7,7 @@ public class Java25304 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Scanner sc = new Scanner(System.in);
+	Scanner sc = new Scanner(System.in);
         int X = sc.nextInt();
         int N = sc.nextInt();       
         int total = 0; 
