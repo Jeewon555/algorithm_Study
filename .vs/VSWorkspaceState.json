@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Algorithm_Study",
+    "\\Algorithm_Study\\.settings",
+    "\\Algorithm_Study\\src",
+    "\\Algorithm_Study\\src\\baekjoon",
     "\\c\u002B\u002B"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\Algorithm_Study\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
