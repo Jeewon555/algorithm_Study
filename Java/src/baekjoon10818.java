@@ -1,3 +1,4 @@
+//1차원배열Level3 - 10818(Bronze3)
 import java.util.Scanner;
 
 public class baekjoon10818 {
