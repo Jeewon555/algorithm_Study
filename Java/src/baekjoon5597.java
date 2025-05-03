@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class baekjoon5597 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int submitted[] = new int[28];
+        int[] submitted = new int[28];
 
         for (int i = 0; i < submitted.length; i++) {
             submitted[i] = sc.nextInt();
@@ -22,7 +22,6 @@ public class baekjoon5597 {
             if (!found){
                 System.out.println(i);
             }
-
         }
 
         sc.close();
