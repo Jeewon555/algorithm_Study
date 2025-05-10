@@ -56,7 +56,6 @@ public class baekjoon5361 extends price{
 //            int e = sc.nextInt(); // 에너지 실드 개수
 //
 //            double total = a * 350.34 + b * 230.90 + c * 190.55 + d * 125.30 + e * 180.90;
-//
 //            System.out.printf("$%.2f\n", total); // 달러 부호와 소수점 2자리
 //        }
 //
