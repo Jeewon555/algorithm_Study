@@ -23,14 +23,14 @@ public class baekjoon5361 extends price{
         baekjoon5361 s = new baekjoon5361();
 
         for (int i = 0; i < n; i++) {
-            //각각 입력을 받음
+            //입력
             int a = sc.nextInt(); // 항공기 엔진 수
             int b = sc.nextInt(); // 외장재 수
             int c = sc.nextInt(); // 연료 수
             int d = sc.nextInt(); // 레이저 수
             int e = sc.nextInt(); // 에너지 실드 수
 
-            //total 출력(소수점 둘째자리까지)
+            //출력(소수점 둘째자리까지)
             double total = s.A(a)+s.B(b)+s.C(c)+s.D(d)+s.E(e);
             System.out.printf("$%.2f\n",total);
         }
