@@ -1,5 +1,6 @@
 //전투 드로이드 가격 - 5361(Bronze3)
 import java.util.Scanner;
+
 //추상클래스(인식X)
 abstract class price{
     public abstract double A(int a);
