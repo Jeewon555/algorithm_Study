@@ -20,7 +20,7 @@ public class baekjoon14425 {
         for (int i = 0; i < M; i++) {
             String k = sc.nextLine();
             //map.containsKey(key): HashMap 안에 키 존재여부 확인  --> true/false로 리턴함
-            //key만 확인함! 값(value)는 확인하지 않음
+            //key만 확인함! 값(value)은 확인하지 않음
             if (map.containsKey(k)) {
                 count++;
             }
