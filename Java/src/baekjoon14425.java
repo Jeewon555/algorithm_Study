@@ -35,7 +35,6 @@ public class baekjoon14425 {
 // 예시 입력:
 // 3
 // hello
-
 // int n = sc.nextInt();         -->  출력: 3
 // String s = sc.nextLine();     -->  출력: ??(빈 문자열)
 
