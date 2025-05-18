@@ -17,6 +17,7 @@ public class baekjoon17219 {
             String[] part = str1.split(" ");   //공백 기준 분리 -> ["google", "abc123"]
             dic.put(part[0], part[1]);               //map에 저장: dic["google"(키)] = "abc123"(값)
         }
+
         //M개의 사이트 주소와 비밀번호 저장
         for (int i = 0; i < M; i++) {
             String str2 = sc.nextLine();
