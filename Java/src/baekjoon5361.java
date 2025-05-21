@@ -9,6 +9,7 @@ abstract class price{
     public abstract double D(int a);
     public abstract double E(int a);
 }
+
 //상속받음
 public class baekjoon5361 extends price{
     public double A(int a){ return 350.34*a;}
